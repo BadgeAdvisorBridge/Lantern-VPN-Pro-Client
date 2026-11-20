@@ -1,0 +1,26 @@
+{
+  "repo": "lantern-vpn-pro-client",
+  "product": "Lantern VPN Pro Client",
+  "kind": "security",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "password-manager",
+  "topics": [
+    "lantern-vpn-client",
+    "lantern-vpn-client-desktop",
+    "lantern-vpn-client-release",
+    "lantern-vpn-client-windows",
+    "endpoint-security",
+    "malware-defense",
+    "privacy-tools",
+    "network-security",
+    "firewall-client",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Lantern VPN Pro Client"
+}
